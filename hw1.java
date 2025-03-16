@@ -1,6 +1,4 @@
 // Name Surname: ALPEREN BUGAY TASKIRAN
-// Student ID : 18050161004
-// Video Link : https://drive.google.com/file/d/1QSpB-5X1U123SYR1dv-TIHgiMdG5tcn-/view?usp=sharing
 
 import java.util.Scanner;
 
